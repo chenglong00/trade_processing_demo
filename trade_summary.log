@@ -1,0 +1,80 @@
+[11:07:55] {trade_summary.py:39} INFO - Reading Trades data
+[11:07:55] {trade_summary.py:44} INFO - No. of records read 5
+[11:07:55] {trade_summary.py:55} INFO - Processing Trades data
+[11:07:55] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:07:55] {trade_summary.py:74} INFO -           avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:07:55] {trade_summary.py:75} INFO - summary completed. Saved to trade_summary2.csv
+[11:07:58] {trade_summary.py:39} INFO - Reading Trades data
+[11:07:59] {trade_summary.py:44} INFO - No. of records read 5
+[11:07:59] {trade_summary.py:55} INFO - Processing Trades data
+[11:07:59] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:07:59] {trade_summary.py:74} INFO -           avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:07:59] {trade_summary.py:75} INFO - summary completed. Saved to trade_summary.csv
+[11:12:31] {trade_summary.py:39} INFO - Reading Trades data
+[11:12:31] {trade_summary.py:44} INFO - No. of records read 5
+[11:12:31] {trade_summary.py:55} INFO - Processing Trades data
+[11:12:31] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:12:31] {trade_summary.py:74} INFO -           avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:12:31] {trade_summary.py:75} INFO - summary completed. Saved to trade_summary.csv
+[11:13:28] {trade_summary.py:39} INFO - Reading Trades data
+[11:13:28] {trade_summary.py:44} INFO - No. of records read 5
+[11:13:28] {trade_summary.py:55} INFO - Processing Trades data
+[11:13:28] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:13:28] {trade_summary.py:74} INFO -           avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:13:28] {trade_summary.py:75} INFO - summary completed. Saved to trade_summary.csv
+[11:15:03] {trade_summary.py:39} INFO - Reading Trades data
+[11:15:04] {trade_summary.py:44} INFO - No. of records read 5
+[11:15:04] {trade_summary.py:55} INFO - Processing Trades data
+[11:15:04] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:15:04] {trade_summary.py:74} INFO -           avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:15:04] {trade_summary.py:75} INFO - summary completed. Saved to trade_summary.csv
+[11:15:36] {trade_summary.py:39} INFO - Reading Trades data
+[11:15:36] {trade_summary.py:44} INFO - No. of records read 5
+[11:15:36] {trade_summary.py:55} INFO - Processing Trades data
+[11:15:36] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:15:36] {trade_summary.py:75} INFO - summary completed. Saved to trade_summary.csv
+[11:15:51] {trade_summary.py:39} INFO - Reading Trades data
+[11:15:51] {trade_summary.py:44} INFO - No. of records read 5
+[11:15:51] {trade_summary.py:55} INFO - Processing Trades data
+[11:15:51] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:17:54] {trade_summary.py:39} INFO - Reading Trades data
+[11:17:54] {trade_summary.py:44} INFO - No. of records read 5
+[11:17:54] {trade_summary.py:55} INFO - Processing Trades data
+[11:17:54] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:17:54] {trade_summary.py:73} INFO - /n          avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:17:54] {trade_summary.py:74} INFO - summary completed. Saved to trade_summary.csv
+[11:18:46] {trade_summary.py:39} INFO - Reading Trades data
+[11:18:46] {trade_summary.py:44} INFO - No. of records read 5
+[11:18:46] {trade_summary.py:55} INFO - Processing Trades data
+[11:18:46] {trade_summary.py:66} INFO - Getting Trade Summary
+[11:18:46] {trade_summary.py:73} INFO - 
+          avgBuy  avgSell  nbTrades
+product                            
+product1   47.12     50.2       3.0
+product2   20.50      0.0       1.0
+product3   18.50      0.0       1.0
+[11:18:46] {trade_summary.py:74} INFO - summary completed. Saved to trade_summary.csv
